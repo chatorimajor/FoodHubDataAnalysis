@@ -16,4 +16,7 @@ numpy – Numerical operations
 matplotlib.pyplot – Data visualization
 seaborn – Statistical data visualization
 
-foodhub_analysis.html – Final report with visualizations (renderable in-browser)
+🔗 View the live project: [FoodHub Analysis Webpage]( https://chatorimajor.github.io/FoodHubDataAnalysis/)
+
+## 📚 Academic Context
+This project was completed as part of a university data analysis course, focusing on real-world applications of Python, pandas, and data visualization.
